@@ -1,4 +1,24 @@
-body{
-    color:brown(118, 188, 118);
-    background: rgb(rgb(209, 146, 29), rgb(49, 158, 185), rgb(46, 46, 153))
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(116, 164, 236);
+    margin: 0px;
+    font font-family: :BBH Sans Hergarty" sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 249, 249);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 0, 0)
+}
+
+section {
+    background: green;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
