@@ -1,57 +1,55 @@
-body {
-    color: rgb(0, 0, 0);
-    background-color: rgb(116, 164, 236);
+body{
+    color: rgb(255, 253, 253);
+    background: rgb(10, 109, 10);
     margin: 0px;
-    font font-family: :BBH Sans Hergarty" sans-serif;
+    font-family: "Fjalla One", sans-serif;
     margin-bottom: 100px;
 }
 
-header {
-    border-bottom: solid 2px rgb(255, 249, 249);
+header{
+    border-bottom: solid 2px rgb(254, 254, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(0, 0, 0)
+    color: rgb(202, 4, 4);
 }
 
 .chamada{
-    background: green;
+    background: rgb(2, 2, 117);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto{
+.chamda-texto{
     margin-right: 5%;
 }
 h1{
     font-size: 40px;
 }
-
 p{
-    font font-size: 20px;
+    font-size: 20px;
 }
-
 img{
     height: 200px;
 }
-.categorias-videos{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
-.categorias{
+.categoria{
     padding-left: 20px;
-    padding-right: 20px ;
+    padding-right: 20px;
     margin-top: 50px;
 }
-.categorias-videos img{
- opacity: 0.5;   
- height: 200px;
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
 }
-.categorias-videos img:hover{
-opacity: 1.0;
-border: 1px solid black;
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 1px solid rgb(243, 243, 243);
 }
-.categorias h2 {
-   color:blueviolet;
+.categoria h2{
+    color:rgb(201, 195, 195)
 }
