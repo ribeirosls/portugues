@@ -1,6 +1,6 @@
 body{
     color: rgb(255, 253, 253);
-    background: rgb(10, 109, 10);
+    background: rgb(217, 23, 243);
     margin: 0px;
     font-family: "Fjalla One", sans-serif;
     margin-bottom: 100px;
@@ -10,7 +10,7 @@ header{
     border-bottom: solid 2px rgb(254, 254, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(202, 4, 4);
+    color: rgb(53, 33, 33);
 }
 
 .chamada{
